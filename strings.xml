@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pixel 6a Call Recorder</string>
+    <string name="record_start">Tap to Record</string>
+    <string name="record_stop">Stop Recording</string>
+</resources>
